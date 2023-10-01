@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Manisha
 - 👀 I’m interested in Programming (Python and Java) Languages and Database Handling (SQL)...
-- 📫 How to reach me @https://www.linkedin.com/in/manisha-pogul-518aa8202/
+- 📫 How to reach me pogulmanisha@gmail.com
 
 <!---
 manishapogul/manishapogul is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
